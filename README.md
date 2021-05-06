@@ -13,7 +13,7 @@ Program Instruction:
 Follow the instruction in Notebook step by step.   
 
 The output from the code are following:  
-##Prediction:    
+## Prediction:    
 <img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/prediction.png" width="660" height="330">  
-##Training loss:  
+## Training loss:  
 <img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/training_loss.png" width="330" height="330">  
