@@ -14,6 +14,6 @@ Follow the instruction in Notebook step by step.
 
 The output from the code are following:  
 ##Prediction:    
-<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/prediction.png" width="200" height="500">  
+<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/prediction.png" width="660" height="330">  
 ##Training loss:  
-<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/training_loss.png" width="200" height="200">  
+<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/training_loss.png" width="330" height="330">  
