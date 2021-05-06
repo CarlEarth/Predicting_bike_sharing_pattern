@@ -12,8 +12,8 @@ my_answer.py: Neural Network
 Program Instruction:  
 Follow the instruction in Notebook step by step.   
 
-The output from the code are following:
-##Prediction:  
-<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/prediction.png" width="100" height="100">
+The output from the code are following:  
+##Prediction:    
+<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/prediction.png" width="200" height="500">  
 ##Training loss:  
-<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/training_loss.png" width="100" height="100">
+<img src="https://github.com/CarlEarth/Predicting_bike_sharing_pattern/blob/main/training_loss.png" width="200" height="200">  
